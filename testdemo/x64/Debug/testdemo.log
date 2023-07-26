@@ -1,0 +1,3 @@
+﻿  learningOpenCV.cpp
+D:\OpenCV\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  testdemo.vcxproj -> D:\testcode\lan_code\testdemo\x64\Debug\testdemo.exe
